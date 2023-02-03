@@ -1,0 +1,35 @@
+{
+  
+  "name": "hamid",
+  
+  "version": "1.0.1",
+  
+  "description": "My npm resume",
+  
+  "main": "index.js",
+  
+  "repository": "https://github.com/hamidfarmani/cv.git",
+  
+  "author": "hamid",
+  
+  "license": "MIT",
+  
+  "private": null,
+  
+  "dependencies": {
+  
+    
+  "chalk": "^5.2.0",
+  
+    
+  "inquirer": "^9.1.4"
+  
+  },
+  
+  "bin": {
+  
+    
+  "hamid": "./index.js"
+  
+  }
+}
