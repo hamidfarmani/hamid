@@ -1,0 +1,32 @@
+{
+    "Sammary" :["\nI'm a skilled software engineer with +8 years of professional experience and a proven track record of delivering successful projects.\nProficient in Java and proficient in databases and recently added React to my skillset. Strong problem solver and excellent communicator.\nSeeking new opportunities to use my skills and make a positive impact."],
+
+    "Main technologies": [
+      "Java",
+      "SpringBoot",
+      "React",
+      "AWS",
+      "Docker",
+      "CI/CD",
+      "MySQL",
+      "MongoDB"
+    ],
+    "Projects": [
+      "SpotifyStats: shorturl.at/amWXY",
+      "Visualizr: shorturl.at/jrwHY",
+      "MustWatch: shorturl.at/nBPVW",
+      "Home office: shorturl.at/ksT05"
+    ],
+    "Education": [
+        "BSc. Computer Engineering (Software) at Golestan University 2013 - 2017"
+      ],
+    "Contact": [
+      "Website: https://hamidfarmani.com",
+      "Email: hamidfarmani1@gmail.com",
+      "GitHub: https://github.com/hamidfarmani",
+      "LinkedIn: https://www.linkedin.com/in/hamidfarmani/"
+    ],
+    "Resume": [
+      "shorturl.at/gIOV1"
+    ]
+  }

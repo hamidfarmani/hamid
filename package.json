@@ -1,35 +1,28 @@
 {
-  
   "name": "hamid",
-  
-  "version": "1.0.1",
-  
-  "description": "My npm resume",
-  
+  "version": "4.0.0",
+  "description": "A command line resume application built using Node.js",
   "main": "index.js",
-  
-  "repository": "https://github.com/hamidfarmani/cv.git",
-  
-  "author": "hamid",
-  
-  "license": "MIT",
-  
-  "private": null,
-  
-  "dependencies": {
-  
-    
-  "chalk": "^5.2.0",
-  
-    
-  "inquirer": "^9.1.4"
-  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamidfarmani/cv.git"
   },
-  
+  "author": "hamid",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^7.3.3"
+  },
   "bin": {
-  
-    
-  "hamid": "./index.js"
-  
-  }
+    "hamid": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hamidfarmani/cv/issues"
+  },
+  "homepage": "https://github.com/hamidfarmani/cv#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {}
 }
