@@ -1,50 +1,51 @@
 {
     "Intro" :[
-      "+----------------------------------------------------------+",
-      "|       Hi! My name is Hamid.                              |",
-      "|                                                          |"
+      " +----------------------------------------------------------------+",
+      " |                                                                |",
+      " |      Hi! My name is Hamid.                                     |",
+      " |                                                                |"
     ],
 
     "Summary" :[
-      "|                        Summary                           |",
-      "|       I'm a software engineer with over 8 years          |",
-      "|       of experience in the field.                        |",
-      "|       My expertise lies in developing high-quality       |",
-      "|       software solutions that are both efficient         |",
-      "|       and scalable.                                      |",
-      "|                                                          |"
+      " |                 __________ Summary __________                  |",
+      " |      I'm a software engineer with over 8 years                 |",
+      " |      of experience in the field.                               |",
+      " |      My expertise lies in developing high-quality              |",
+      " |      software solutions that are both efficient                |",
+      " |      and scalable.                                             |",
+      " |                                                                |"
     ],
 
     "Main technologies": [
-      "|                    Main technologies                     |",
-      "|       - Java                                             |",
-      "|       - SpringBoot                                       |",
-      "|       - React                                            |",
-      "|       - AWS                                              |",
-      "|       - Docker                                           |",
-      "|       - CI/CD                                            |",
-      "|       - MySQL                                            |",
-      "|       - MongoDB                                          |",
-      "|                                                          |"
+      " |             __________ Main technologies __________            |",
+      " |      - Java                                                    |",
+      " |      - SpringBoot                                              |",
+      " |      - React                                                   |",
+      " |      - AWS                                                     |",
+      " |      - Docker                                                  |",
+      " |      - CI/CD                                                   |",
+      " |      - MySQL                                                   |",
+      " |      - MongoDB                                                 |",
+      " |                                                                |"
     ],
 
     "Projects": [
-      "|                     Latest projects                      |",
-      "|       SpotifyStats: shorturl.at/amWXY                    |",
-      "|       Visualizr: shorturl.at/jrwHY                       |",
-      "|       MustWatch: shorturl.at/nBPVW                       |",
-      "|       HomeOffice: shorturl.at/ksT05                      |",
-      "|                                                          |"
+      " |             __________ Latest projects __________              |",
+      " |      SpotifyStats: https://hamid-spotify.netlify.app/          |",
+      " |      Visualizr: https://hamidfarmani.github.io/visualizr/      |",
+      " |      MustWatch: https://mustwatchmovies.netlify.app/           |",
+      " |      HomeOffice: https://hamid-home-office.netlify.app/        |",
+      " |                                                                |"
     ],
 
     "Contact": [
-      "|                        Contact                           |",
-      "|       Website: https://hamidfarmani.com                  |",
-      "|       Email: hamidfarmani1@gmail.com                     |",
-      "|       GitHub: https://github.com/hamidfarmani            |",
-      "|       LinkedIn: https://linkedin.com/in/hamidfarmani     |",
-      "|                                                          |",
-      "+----------------------------------------------------------+"
+      " |                 __________ Contact __________                  |",
+      " |      Website: https://hamidfarmani.com                         |",
+      " |      Email: hamidfarmani1@gmail.com                            |",
+      " |      GitHub: https://github.com/hamidfarmani                   |",
+      " |      LinkedIn: https://linkedin.com/in/hamidfarmani            |",
+      " |                                                                |",
+      " +----------------------------------------------------------------+"
     ]
 
   }
